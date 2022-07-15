@@ -21,5 +21,10 @@ namespace EF_WinForm_CodeFirst
         {
 
         }
+
+        private void metroTextBox3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
