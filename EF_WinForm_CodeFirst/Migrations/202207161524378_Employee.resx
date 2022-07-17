@@ -117,10 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="employeeBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>21, 21</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>156</value>
-  </metadata>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAM1Vy27bMBC8F+g/CLzHtJ1LG8gJXNspAtRxEbm509JKIcpXxZVhfVsP/aT+Qley5GfjOEEPPZJczs7ODpe/f/4Kb1ZaBUvIvbRmwHqdLgvAxDaRJhuwAtOLD+zm+v27cJLoVfDYxl1WcXTT+AF7QnRXnPv4CbTwHS3j3HqbYie2movE8n63+5H3ehwIghFWEIQPhUGpoV7QcmRNDA4LoaY2AeWbfTqJatTgXmjwTsQwYBPtsGTBUElBySNQKQuEMRYFErWrbx4izK3JIkcbQs1LBxSXCuWhoXy1DT+Xfbdfsefbiy1UXHi0+pWAvctGDn54/U2iso1cJNiEhMWSBEUhDeS1cgNWy1ptwgpZcJi1Em2k8kYqzAtSim97wNdNaJvFn+lWOBXOkW12utfsBNG6daOL6PUF6jUGj/2pOjeZ0OYig4NTSk1Mb2XucSxQLETlhVGij8L2ddrVoEmwEeGg2LBJ/LJ/j5isQ1jwNbdLmVQsotIj6E4V0Il+qJGSYHAbMBVGpuBxbr8DGY781D94D/+PN7n3iTrDoH/pzwkHHosd8t2REo7By4zQdwaMgbiqYgvaxtyZ1JK0DnIsI8Bdrm1Ie9y+JkCREM9hjjIVMdJxDN6THVjwKFRRT6kFJHdmVqArcOg96IUq92s6nb9+Zvucw5mrVv5flEA0JZUAM/OpkCrZ8L5dz0l+BkTVss9A+7U7aOgSXFZukO6tOROokW8MDkxCTp+DdorA/MxEYglv4UYD7QtkIi7bN/M8yMuN2Jc9HEuR5UL7BmN7v/omefVPXv8BNde7ClkHAAA=</value>
+  </data>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
+  </data>
 </root>
